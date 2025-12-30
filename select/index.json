@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Why I Love You",
+  "base_artist": "grentperez",
+  "createdAt": "2025-12-30T03:09:02.346129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "B2K",
+      "has_synced": false,
+      "path": "select/01_Why_I_Love_You_B2K.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "B2K",
+      "has_synced": true,
+      "path": "select/02_Why_I_Love_You_B2K.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "B2K",
+      "has_synced": true,
+      "path": "select/03_Why_I_Love_You_B2K.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "B2K",
+      "has_synced": true,
+      "path": "select/04_Why_I_Love_You_B2K.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That's Why I Love You",
+      "artist": "Andrew Gold",
+      "has_synced": false,
+      "path": "select/05_That's_Why_I_Love_You_Andrew_Gold.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "MAJOR.",
+      "has_synced": true,
+      "path": "select/06_Why_I_Love_You_MAJOR..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "CRi",
+      "has_synced": false,
+      "path": "select/07_Why_I_Love_You_CRi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's Why I Love You",
+      "artist": "SiR",
+      "has_synced": true,
+      "path": "select/08_That's_Why_I_Love_You_SiR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Why I Love You",
+      "artist": "Major.",
+      "has_synced": true,
+      "path": "select/09_Why_I_Love_You_Major..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's Why I Love You",
+      "artist": "SiR",
+      "has_synced": true,
+      "path": "select/10_That's_Why_I_Love_You_SiR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Why I Love You So Much",
+      "artist": "Monica",
+      "has_synced": true,
+      "path": "select/11_Why_I_Love_You_So_Much_Monica.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's Why I Love You",
+      "artist": "Nelson Freitas",
+      "has_synced": false,
+      "path": "select/12_That's_Why_I_Love_You_Nelson_Freitas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Why I Love You So Much",
+      "artist": "Monica",
+      "has_synced": true,
+      "path": "select/13_Why_I_Love_You_So_Much_Monica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's Why I Love You",
+      "artist": "Andrew Gold",
+      "has_synced": true,
+      "path": "select/14_That's_Why_I_Love_You_Andrew_Gold.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This is Why I Love You",
+      "artist": "Ruxpin",
+      "has_synced": false,
+      "path": "select/15_This_is_Why_I_Love_You_Ruxpin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Why I Love You",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/pl_01_Why_I_Love_You_grentperez.txt"
+    }
+  ]
+}
